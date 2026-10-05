@@ -1,1 +1,1 @@
-window.FFL_LEAGUES={"1527523": {"name": "It's Never Sunny in Chicago", "seasons": [2016, 2026], "v": "c8018e6c85"}};
+window.FFL_LEAGUES={"1527523": {"name": "It's Never Sunny in Chicago", "seasons": [2016, 2026], "v": "09f1e8d1af"}};
